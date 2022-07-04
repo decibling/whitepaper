@@ -1,6 +1,6 @@
 backend:
-  name: whitepaper
-  branch: main # Branch to update (optional; defaults to master)
+  name: github
+  branch: Decibling/whitepaper # Branch to update (optional; defaults to master)
 media_folder: static/images
 public_folder: /images
 collections:
