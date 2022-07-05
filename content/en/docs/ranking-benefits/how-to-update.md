@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "help"
+    parent: "ranking-benefits"
 weight: 610
 toc: true
 ---
