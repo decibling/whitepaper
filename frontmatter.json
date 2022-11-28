@@ -14,38 +14,6 @@
       "path": "[[workspace]]/content/en/docs"
     },
     {
-      "title": "help",
-      "path": "[[workspace]]/content/en/docs/help"
-    },
-    {
-      "title": "lorem",
-      "path": "[[workspace]]/content/en/docs/lorem"
-    },
-    {
-      "title": "ipsum",
-      "path": "[[workspace]]/content/en/docs/lorem/ipsum"
-    },
-    {
-      "title": "amet",
-      "path": "[[workspace]]/content/en/docs/lorem/ipsum/amet"
-    },
-    {
-      "title": "consectetur",
-      "path": "[[workspace]]/content/en/docs/lorem/ipsum/amet/consectetur"
-    },
-    {
-      "title": "dolor",
-      "path": "[[workspace]]/content/en/docs/lorem/ipsum/dolor"
-    },
-    {
-      "title": "sit",
-      "path": "[[workspace]]/content/en/docs/lorem/ipsum/sit"
-    },
-    {
-      "title": "prologue",
-      "path": "[[workspace]]/content/en/docs/prologue"
-    },
-    {
       "title": "privacy-policy",
       "path": "[[workspace]]/content/en/privacy-policy"
     }

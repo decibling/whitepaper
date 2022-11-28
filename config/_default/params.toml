@@ -12,7 +12,7 @@ description = ""
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "whitepaper.decibling.com"
+domainTLD = "whitepaper.decibling.xyz"
 titleHome = "Decibling | Whitepaper"
 
 ## Twitter Cards

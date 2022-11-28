@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getdoks.org/">
-    <img alt="Doks" src="https://whitepaper.decibling.com/doks.svg" width="60">
+    <img alt="Doks" src="https://whitepaper.decibling.xyz/doks.svg" width="60">
   </a>
 </p>
 
@@ -38,13 +38,13 @@
 
 ## Demo
 
-- [whitepaper.decibling.com](https://whitepaper.decibling.com/)
+- [whitepaper.decibling.xyz](https://whitepaper.decibling.xyz/)
 
 ## Why Doks?
 
 Nine main reasons why you should use Doks:
 
-1. __Security aware__. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/whitepaper.decibling.com) out of the box. Easily change the default Security Headers to suit your needs.
+1. __Security aware__. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/whitepaper.decibling.xyz) out of the box. Easily change the default Security Headers to suit your needs.
 
 2. __Fast by default__. Get 100 scores on [Google Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637) by default. Doks removes unused css, prefetches links, and lazy loads images.
 
