@@ -7,7 +7,7 @@ titleAddition = ""
 description = ""
 
 ## Documentation
-# docsVersion = "0.3"
+# docsVersion = "0.1"
 
 ## Open Graph
 images = ["doks.png"]
@@ -16,8 +16,8 @@ domainTLD = "whitepaper.decibling.xyz"
 titleHome = "Decibling | Whitepaper"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@decibling"
+twitterCreator = "@kyrisvn"
 
 ## JSON-LD
 # schemaType = "Person"
@@ -34,9 +34,9 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = "https://twitter.com/decibling"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = "https://github.com/decibling"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -54,10 +54,10 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Copyright (c) 2022 Decibling. Powered by Netlify, Hugo and Doks."
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2022 Decibling."
 
 # Alert
 alert = false
@@ -69,7 +69,7 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/decibling/docs"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false
@@ -85,7 +85,7 @@ lastMod = false
   flexSearch = true
   darkMode = true
   bootStrapJs = true
-  breadCrumb = false
+  breadCrumb = true
   highLight = true
   kaTex = false
   multilingualMode = false
