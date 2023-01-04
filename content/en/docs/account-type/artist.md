@@ -2,7 +2,7 @@
 title: Artist
 draft: false
 weight: 720
-lastmod: 2023-01-04T08:23:55.592Z
+lastmod: 2023-01-04T09:00:13.368Z
 ---
 Artist Account: Any account which uploads a minimum of his/ her/ their owned 3 songs following the rules and conditions of our Term & Conditions, is recognized as an Artist Account. 
 
