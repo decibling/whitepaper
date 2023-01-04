@@ -1,14 +1,27 @@
 ---
-title : "Introduction"
+title: Introduction
 draft: false
 images: []
 weight: 310
+lastmod: 2023-01-04T08:37:18.401Z
 ---
 
-Why buy?
-Decibling does not limit the numbers of times an NFT can be list for auction. Current owners can open an auction to sell it to another buyer.
-Upon completion for bidding an NFT regardless of winning or losing that bid. The listener account will be recognize as a Collector account. For the Collector who won the bid, the NFT will be in that Collector’s wallet. However, this NFT will still be in the original artist’s lists of works. Listener who stake in that Artist’s Pool can still listen to this work and the Collector who owning that NFT will receive a Return corresponding to the value of the NFT in that Artist’s Pool.
+All artists can mint their owned music works (song) themselves to an NFT and open an auction on the Decibling Auction Marketplace.
 
-Who can sell, open an auction ?
-Only Artist Account and Collector account have the right to sell and open an auction. Listener account do not have the right to sell and open an auction.
+Any collector who would win the auction, will be the current owner of this music work (song), and will own this NFT in his/ her/ their wallet from the seller.
 
+Any collector who owns NFT, has the right and permission to open an auction on the Decibling Auction Marketplace to re-sell it to the next buyer.
+
+## Minting NFT & Auctioning 
+
+Any artist who wants to open an auction to sell their NFT, first, he/ she/ they must have an Artist Account.
+
+To mint the NFT, the artist must fịrst uploads this music work (song) successfully on his/ her/ their Artist Pool.
+
+All artists do not have the right and permission to upload their owned same music work (song).
+
+All artists do not have the right and permission to upload others owned music work (song).
+
+Decibling does not limit the numbers of times an NFT can be listed selling for auction. No matter how many times an NFT are sold, this music work which is presented for this NFT, is still displayed and listenned on the Artist Pool but with a owning tag of the current owner (collector).
+
+Minting an NFT requires a small Gas Fee.

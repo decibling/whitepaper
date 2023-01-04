@@ -1,16 +1,38 @@
 ---
-title: "Pool types introduction"
+title: Pool types introduction
 draft: false
 weight: 620
+lastmod: 2023-01-04T08:47:27.442Z
 ---
 
-Decibling Pool: It is the publisher’s pool, the Decibling platform
+There are only 2 types of Pool in Decibling platform.
 
-Decibling Pool: To become a basic member (Listener), users will have to stake a specific amount of tokens into this Pool. Thereby, Listeners will have the right to listen to unlimited genres of music with standard quality of the Decibling Pool and get Return from this Pool
+* Decibling Pool: This is the publisher (Decibling) platform's pool where Listener Accounts can listen all musics from Decibling library while staking into it.
 
+        (1) Earning (per year by staking FROY into Decibling Pool)
+            = (0.02 * Total staking amount)
+        (2) Peyment term (per 5 days)
+            = [(1) / 365] * 5
 
-Artist Pool: it is a Pool created by the artist him/herself according to the publisher’s regulatiions
+* Artist Pool: This is the fans Pool for every Artist Account where Listener Accounts can listen all uploaded musics from the Artist library while staking into it. The Artist Account will receive the 8% return per year and get paid per 5 days. Artist Account must have a minimum standard return for his/ her/ their fans (stakers) as 3% per year and a maximum return for his/ her/ their self (selves) as 5% per year.
 
-Artist Pool: Or, Listener will stake a specific amount of tokens into the Pool of their favorite artist, which mean Listener will have the right to listen to the highest quality music and receive a higher Return than the publisher’s Pool (Decibling Pool)
+The artist (owner) of the Artist Pool can adjust the return for his/ her/ their fans (stakers) from 3% to maximum 8% per year. 
 
-Note: Users only need to pay gas fee for Network System everytime they stake or withdraw to their wallet. There will be no monthly membership charges like traditional music platforms.
+The artist (owner) of the Artist Pool can adjust the return for his/ her/ their self (selves) from 0% to maximum 5% per year.
+
+        (3) Earning of the artist (per year by staking FROY into Artist Pool) 
+            = [(0 or maximum of 0.05) * Total staking amount]
+        (4) Earning of the fans (per year by staking FROY into Artist Pool) 
+            = [(minimum of 0.03 or maximum of 0.08) * Total staking amount] 
+        (5) Payment term (per 5 days) 
+            = [(3) or (4) / 365] * 5
+
+## Staking System Maintenance Fee (SSM Fee)
+All stakers will have to pay 5% for SSM Fee for what they'll get (the staking return)
+
+        SSM Fee 
+            = Total return amount * 0.05 * Payment term (per 5 days) 
+            = [(6) / 365] * 5
+
+GAS Fee
+* Users only need to pay gas fee for the Blockchain Network System everytime they stake FROY into any particular pool or withdraw FROY back to their wallets. 

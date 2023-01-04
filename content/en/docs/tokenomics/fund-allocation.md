@@ -1,64 +1,161 @@
 ---
-title: "Fund allocation"
+title: Fund allocation
 draft: false
 weight: 520
+lastmod: 2023-01-04T08:54:50.891Z
 ---
-1. Max Supply: 100,000,000,000 dB
-(In word: One hundred billion dB)
+# Allocation
+## 1. Return Guarantee Fund
+Max capacity:			30% of FROY total supply
 
- 2. Return Guarantee Fund: 30% of supply. Equivalent to 30,000,000,000 dB
-(Thirty billion dB)
-Return Fund: Max 30%
-Mission: Pay Return for Stakers
-Recharge: By dev team & community & Happy Autism
-Period: Once/3years
+In numbers:			30,000,000,000
 
- 3. Project development team: 14.2% Equivalent 14,200,000,000 dB
-(Fourteen billion two hundred million dB)
-Team: First divide 14.2%,  can be expand larger by staking return and maintain system fee & can not be less than 5%/
-Mission: To guarantees for Return Fund and team benefit/
-Collecting method: Blocked for the first 6 months. Vesting per  3 months in 5 years and can not be less than 5%/
-Recharge: By staking return and maintain system fee & can not be less than 5%
+In words:			Thirty billions FROY
 
+Mission:			To guarantee the return for all staking users in the platform
 
- 4. Seeds, private sales: 16.3% Equivalent to 16,300,000,000 dB
-(Sixteen billion three hundred million dB)
-Private Sale: Max 16.3%/
-Mission: For early investors/
+Regulation:			To pay the return for stakers
+
+Recharge: 		
+* By Dev Team
+* By Happy Autism
+* From Income Tax
+* By Community
+
+Period of recharge:		Once per 3 years
+
+Standard of recharge:		> 80% of max capacity
+
+Recharge priority rank:		Number 1
+## 2. Project Development Team
+Max capacity:			14.2% of FROY total supply
+
+In numbers:			14,200,000,000
+
+In words:			Fourteen billions and two hundred millions FROY
+
+Min capacity*:			Can not be less than 5% of FROY total supply	
+
+Mission:			Project development team's dedication payment
+
+Regulation:		
+* Block for the first 6 months since the first successful fund raising date
+* Vesting per 3 month in 5 years
+
+Recharge:			By Community
+
+Period of recharge:		No
+
+Standard of recharge:		No
+
+Recharge priority rank:		No
+
+The release of Min capacity*:	After 10 years
+## 3. Ecosystem Research & Developing:
+Max capacity:			7.5% of FROY total supply
+
+In numbers:			7,500,000,000
+
+In words:			Seven billions and five hundred millions FROY
+
+Mission: 			
+* Transfer an emergency amount of FROY to balance when the Return
+* Guarantee Fund drops down under 50%
+* Spending for new research & developing
+
+Regulation:			is made by community votes
+
+Recharge:			By Community	
+
+Period of recharge:		No
+
+Standard of recharge:		No
+
+Recharge priority rank:		No
+## 4. Decibling Award (DCBA)
+Max capacity:			17% of FROY total supply
+
+In numbers:			17,000,000,000
+
+In words:			Seventeen billions FROY
+
+Mission:			To cover all of the DCBA event fees and its prizes
+
+Regulation:			
+* To pay the celebration expense
+* To pay for the winner of the prizes (Artist & Collector)
+
+Recharge:			
+* From DCBA Fee
+* By Happy Autism
+* By Community
+
+Period of recharge:		Once per 3 years
+Standard of recharge:		> 80% of max capacity
+Recharge priority rank:		Number 2
+## 5. Advisors
+Max capacity:			3% of FROY total supply
+
+In numbers:			3,000,000,000
+
+In words:			Three billions FROY
+
+Mission:
+* Advisors's dedication payment for:
+* Support to project development team
+* Support for branding
+* Support for business
+
+Regulation:
+* Block for the first 6 months since the first advisor appears
+* Vesting per 3 months in 3 years if user growth reaches 10M in the first year	
+* Vesting per 3 months in 2 years if user growth reaches 20M in the first year
+* Vesting per 3 months in 1 year if user growth reaches 50M in the first year	
+
+Recharge:			No
+
+Period of recharge:		No
+
+Standard of recharge:		No
+
+Recharge priority rank:		No
+## 6. Private Sale
+Max capacity:			21.3% of FROY total supply
+
+In numbers:			21,300,000,000
+
+In words:			Twenty one billion and three hundred millions FROY
+
+Mission:			is sold for fund raising and airdrops
+
+Regulation:			
+* 40% of total amount fundraising will be used for liquidation
+* 1.3% of this capacity could be sold and used for first angel investors or airdrops
+* First 10% of this capacity will be sold at the first fund raising term
+* Last 10% of this capacity will be sold after the first fund raising term 9 months later
+
 Recharge: No
 
- 5. Binance launch pad sales: 7% Equivalent to 7,000,000,000 dB
-(Seven billion dB)
-Binance Launch Pad: Max 7%/
-Mission: To list token on public/
-Recharge: No
+Period of recharge: No
 
+Standard of recharge: No
 
+Recharge priority rank: No
+## 7. Binance Launch Pad
+Max capacity:			7% of FROY total supply
 
-6.  Advisors: 2.5% Equivalent 2,500,000,000 dB
-(Two Billion dB)
-Advisors: Max 2.5%/
-Mission: Paying for Advisors whom support the team in business departments/
-Staking: No/
-Collecting method: Blocked for first 6 months, after that, vesting per 3 months in 3 years if the platform reaches 10M users in the first year, 3 months in 2 years if 20M users first year, 3 months in 1 year if 100M users first year/
-Recharge: No
-7. Ecosystem Research & Developing: 15% Equivalent 15,000,000,000 dB
-(Fifteen billion dB)
-Ecosystem Research & Developing: Max 15%
-Mission: Recharge Return Fund when Return Fund is less than 50% capacity & paying for upgrade and building new ecosystem
-Staking: No
-Decision made: Community votes
-Recharge: By buying back from new funds
+In numbers:			7,000,000,000
 
+In words: 			Seven billions FROY
 
-8. Decibling Award (DCBA): 15% Equivalent 15,000,000,000 dB
-(Fifteen billion dB)
-Academy Fund: Max 15%/
-Mission: Award prizes/
-Staking: Yes (in DCB pool, return same listener, 2%/year)/
-Decision made: Community votes/
-Recharge: from 2 sources:
-1. By environment & academy fee collected from artist & collector (each side 2.5%/ bid transaction complete.
-2. By supporting fund from other organizations
+Mission:			To list FROY on Binance Exchange
 
+Regulation:			After all the Private Sale capacity is sold
 
+Recharge:			No
+
+Period of recharge:		No
+
+Standard of recharge:		No
+
+Recharge priority rank:		No

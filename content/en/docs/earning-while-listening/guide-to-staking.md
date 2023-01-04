@@ -1,10 +1,14 @@
 ---
-title: "Guide to staking"
+title: Staking guide
 draft: false
 weight: 630
+lastmod: 2023-01-04T08:36:30.117Z
 ---
 
-Users will use the Token issued by Decibling to stake.
+Users will use the token which is issued by Decibling (FROY) to stake into the pools from their wallets.
 
-The Pool Owner themselves can also stake into their own Pool to increase the staking volume and thereby getting more value in the future.
+Users can choose one of two Pool Types to stake their FROY into. Or users can choose both.
 
+The artist (owner) of the Artist Pool can also stake FROY into his/ her/ their owned pool.
+
+The higher the staking volume of FROY, the bigger the return amount.

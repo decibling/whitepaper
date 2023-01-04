@@ -1,22 +1,13 @@
 ---
-title: "Collector"
+title: Collector
 draft: false
 weight: 730
+lastmod: 2023-01-04T08:24:07.628Z
 ---
-Collector Account:
-Collector account has all the features of a Listener Account and additional rights to sell and open an auction. This feature is obtained by satisfying the condition at (Chap4.3).
+Collector Account: Any account which is the winner of the first auction, will be recognized as Collector Account after completing his/ her/ their payment.
 
-The Collector account also has its Ranks.
+Collector Account will receive his/ her/ their NFT in his/ her/ their wallet.
 
+Collector Account then can open an auction for his/ her/ their owned NFT.
 
-Dolphin: The default title at the start of a Collector account. This title does not have any perks and benefits..
-
-Shark: Reach a total transaction value of 100,000 USD and maintain a Db equivalent of 50,000 USD in your wallet or staking pool for at least 180 days.
-
-
-Whale: Reach a total transaction value of 1,000,000 USD and maintain a Db equivalent of 500,000 USD in your wallet or staking pool for at least 180 days.
-
-Collector Ranks:
-- Dolphin: Have no benefit
-- Shark: Property tax is discounted by 20%
-- Whale: Property tax is discounted by 40%
+Collector can not bid on their owned auction.
