@@ -3,7 +3,7 @@ title: How to participate and bid
 draft: false
 images: []
 weight: 330
-lastmod: 2023-01-04T08:44:22.125Z
+lastmod: 2023-01-11T07:12:08.999Z
 ---
 # Who can bid?
 - All Listener Accounts can bid on any auction.
@@ -21,13 +21,13 @@ lastmod: 2023-01-04T08:44:22.125Z
 - Seller must pay 2.5% Decibling Award fee (DCBA fee) on every successful auction:
 
 			            DCBA Fee = 0.025 * Final winning bid amount
-- If the NFT is sold from the 2nd auction, the re-seller will lose the rights and obligations for the DCB Award. The Artist Account which is the first seller, never lose his/ her/ their rights and obligations for this.
+- If the NFT is sold from the 2nd auction of it, the re-seller will lose the rights and obligations for the DCB Award. The Artist Account which is the first seller, never lose his/ her/ their rights and obligations for this.
+
+- Again, if the NFT is sold from the 2nd auction of it, the 2nd to n re-seller won't receive the 2.5% DBCA fee from the winning buyer. 
 # The Buyer
+- Every Listener Account or Collector Account which is joining the bid, is known as the buyer.
 
-Every Listener Account or Collector Account which is joining the bid, is known as the buyer.
-
-The final buyer who wins the auction, will be received a suggested email of paying 2.5% for DCBA fee. If this final buyer accepts to pay, they will have the rights and obligations to share the DCB Award with the artist. If this final buyer doesn't, they won't have it.
-
+- The buyer who wins the auction, will be received a suggested email of paying 2.5% of the final winning bid amount for DCBA fee. If this buyer accepts to pay, he/ she/ they will have the rights and obligations to share the DCB Award with the artist. If this final buyer doesn't, he/ she/ they won't have it and 100% prizes of DCBA will go to the artist.
 # The Cost & The Profit
 
 Seller:
@@ -38,9 +38,9 @@ Re-seller:
 
 		        Re-seller Net Profit = Final winning bid amount - Income Tax
 
-Final Buyer:
+Winning Buyer:
 
-			        Final Buyer Payment = Final winning bid amount
+			        Winning Buyer Payment = Final winning bid amount
 
 
 Default income tax: 10%

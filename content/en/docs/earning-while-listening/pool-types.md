@@ -2,7 +2,7 @@
 title: Pool types introduction
 draft: false
 weight: 620
-lastmod: 2023-01-04T08:47:27.442Z
+lastmod: 2023-01-11T07:08:31.193Z
 ---
 
 There are only 2 types of Pool in Decibling platform.
@@ -30,7 +30,7 @@ The artist (owner) of the Artist Pool can adjust the return for his/ her/ their 
 ## Staking System Maintenance Fee (SSM Fee)
 All stakers will have to pay 5% for SSM Fee for what they'll get (the staking return)
 
-        SSM Fee 
+        (6) SSM Fee 
             = Total return amount * 0.05 * Payment term (per 5 days) 
             = [(6) / 365] * 5
 

@@ -12,7 +12,7 @@ description = ""
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "whitepaper.decibling.xyz"
+domainTLD = "whitepaper.decibling.com"
 titleHome = "Decibling | Whitepaper"
 
 ## Twitter Cards
@@ -51,13 +51,13 @@ bgColor = "#fff"
 landscapePhotoWidths = [900, 800, 700, 600, 500]
 portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
-smallLimit = "300"
+smallLimit = "360"
 
 # Footer
-footer = "Copyright (c) 2022 Decibling. Powered by Netlify, Hugo and Doks."
+footer = "Copyright (c)2022-2023 Decibling. Powered by Netlify, Hugo and Doks."
 
 # Feed
-copyRight = "Copyright (c) 2022 Decibling."
+copyRight = "Copyright (c)2022-2023 Decibling."
 
 # Alert
 alert = false
