@@ -1,11 +1,12 @@
 ---
-title: "FROY token introduction"
+title: FROY token introduction
 draft: false
 weight: 20
+lastmod: 2023-01-17T07:51:08.130Z
 ---
 
-Froy is a NFT token developed by Decibling.
+Froggily (FROY) is a NFT token developed by Decibling.
 
-Froy will be use as a public currency within Decibling’s platform
+FROY will be use as a public currency within Decibling’s platform
 
-All purchases, exchanges, giveaways, withdrawals, paying interest, fees and taxes (if any) and staking will use dB
+All purchases, exchanges, giveaways, withdrawals, paying interest, fees and taxes (if any) and staking will use FROY.
