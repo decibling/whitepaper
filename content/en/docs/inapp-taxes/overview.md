@@ -1,7 +1,8 @@
 ---
-title: "In App Taxes"
-draft: false
+title: In App Taxes
+draft: true
 weight: 101
+lastmod: 2023-01-17T16:28:14.640Z
 ---
 Depletion ?
 Based on the non-inflationary mechanism and progressive over the return payment period, the depletion of the guarantee fund is likely to occur.
