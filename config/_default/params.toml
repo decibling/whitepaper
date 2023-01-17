@@ -10,7 +10,7 @@ description = ""
 # docsVersion = "0.1"
 
 ## Open Graph
-images = ["thumbnail.png"]
+images = ["thumbnail.jpg"]
 ogLocale = "en_US"
 domainTLD = "whitepaper.decibling.xyz"
 titleHome = "Decibling | Whitepaper"
@@ -31,7 +31,7 @@ schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "thumbnail.png"
+schemaImage = "thumbnail.jpg"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/decibling"
