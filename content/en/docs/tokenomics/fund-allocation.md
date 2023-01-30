@@ -2,7 +2,7 @@
 title: Fund allocation
 draft: false
 weight: 520
-lastmod: 2023-01-04T08:54:50.891Z
+lastmod: 2023-01-30T07:35:04.708Z
 ---
 # Allocation
 ## 1. Return Guarantee Fund
@@ -100,8 +100,7 @@ In numbers:			3,000,000,000
 
 In words:			Three billions FROY
 
-Mission:
-* Advisors's dedication payment for:
+Mission: advisors's dedication payment for:
 * Support to project development team
 * Support for branding
 * Support for business
