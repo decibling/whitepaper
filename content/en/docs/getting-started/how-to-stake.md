@@ -6,8 +6,8 @@ lastmod: 2023-01-11T09:45:10.437Z
 ---
 ### Decibling Pool
 
-> By default, you will be able to listen to all musics after registration. But low quality.
-> For better quality, just 300 FROY and you will be upgraded to use medium quality.
+> By default, you will be able to listen to all musics after registration but at low quality.
+> To get better quality, stake 300 FROY to Decibling and you will be upgraded to medium quality.
 
 ![](/images/dcbp-upgrade.png)
 
@@ -15,7 +15,7 @@ If you start from our homepage, this promotion will lead through our upgrade sys
 
 Our first requirement is just stake 300 FROY to our pool, then you are good to go!
 
-![](/images/dcbp-upgrade-2.png)
+<!-- ![](/images/dcbp-upgrade-2.png) -->
 
 You can check quality between low and medium in the player:
 

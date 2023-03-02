@@ -36,7 +36,7 @@ In words:			Fourteen billions and two hundred millions FROY
 
 Min capacity*:			Can not be less than 5% of FROY total supply	
 
-Mission:			Project development team's dedication payment
+Mission:			Project development team's commitment payment
 
 Regulation:		
 * Block for the first 6 months since the first successful fund raising date
@@ -100,7 +100,7 @@ In numbers:			3,000,000,000
 
 In words:			Three billions FROY
 
-Mission: advisors's dedication payment for:
+Mission: advisors' dedication payment for:
 * Support to project development team
 * Support for branding
 * Support for business
@@ -125,7 +125,7 @@ In numbers:			21,300,000,000
 
 In words:			Twenty one billion and three hundred millions FROY
 
-Mission:			is sold for fund raising and airdrops
+Mission:			is made available for fund raising and airdrops
 
 Regulation:			
 * 40% of total amount fundraising will be used for liquidation

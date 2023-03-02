@@ -19,7 +19,7 @@ Where does the source of Return come from?
 Return payment method:
 Return has a specific interest rate for each different case.
 
-However, the interest rate for all cases is calculated on an annual basis and automatically paid to ……… Staker’s Wallet per Term, and each term lasts for 10 days
+However, in all cases, the interest rate is calculated on an annual basis and is automatically paid to......... Staker's Wallet every 5 or 10 days.
 
-If Stakers make a stake in the middle of a term’s period, they will receive Return in the Next Term.
+Stakers who stake in the middle of a term will receive Return in the following term.
 

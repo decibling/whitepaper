@@ -7,7 +7,7 @@ lastmod: 2023-01-11T07:34:05.727Z
 Decibling platform collects 3 main taxes and fees which are:
 
 1. Income Tax:				
-* 10% on the total final winning bid amount from the seller
+* 10% of the seller's total final winning bid amount
 * 70% of Income Tax will go to Happy Autism PTE. LTD.
 * 30% of Income Tax will recharge The Return Guarantee Fund
 
@@ -17,9 +17,9 @@ Decibling platform collects 3 main taxes and fees which are:
 * 50% of 2.5% DCBA fee from the seller
 
 3. SSM Fee:				
-* 5% from the total amount return
+* 5% from the total return amount
 
-As above detail, most of the taxes and fees are transferred back to the important allocations to guarantee the platform system endurance.
+As previously stated, the majority of the taxes and fees are returned to the important allocations to ensure the platform system's longevity.
 
 Decibling platform also provide services which small fees are collected from that:
 

@@ -4,7 +4,7 @@ draft: false
 weight: 830
 lastmod: 2023-01-11T08:53:41.595Z
 ---
-> Metamask is required on this step, please install it first in your browser or your mobile device.
+> Metamask is required on this step, please install it first in your browser and reload your browser or your mobile device.
 
 Wallet will be used as your identity in most of our features, so please choose your wallet carefully.
 

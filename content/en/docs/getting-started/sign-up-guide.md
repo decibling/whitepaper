@@ -10,5 +10,5 @@ lastmod: 2023-01-11T08:47:32.146Z
 [Our registration form](https://decibling.com/register) is very simple, which is required only 4 fields:
 - Username: your main username for use in the whole Decibling platform
 - Email: we will use it to login though the platform and mobile applications
-- Password
-- Confirm password
+- Password: your password, minimum 8 characters
+- Confirm password: reinput your password again
