@@ -1,4 +1,4 @@
-baseurl = "https://whitepaper.decibling.xyz"
+baseurl = "https://whitepaper.decibling.com"
 canonifyURLs = false
 disableAliases = false
 disableHugoGeneratorInject = true
