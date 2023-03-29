@@ -5,7 +5,7 @@ weight: 20
 lastmod: 2023-01-17T07:51:08.130Z
 ---
 
-Froggily (FROY) is a NFT token developed by Decibling.
+Froggily (FROY) is a token developed by Decibling.
 
 FROY will be use as a public currency within Decibling’s platform
 

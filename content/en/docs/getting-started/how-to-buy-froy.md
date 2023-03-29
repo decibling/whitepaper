@@ -5,9 +5,9 @@ weight: 840
 lastmod: 2023-01-11T09:38:30.823Z
 ---
 
-Depending on the level of development, user can get dB in different ways on each cycle.
-Here, we are talking about the first phase, when the Decibling platform begin to run, we decided to use the network of ETH (Ethereum). So you can get dB through DEXs (Decentralized exchanges) in the ETH network.
-Pair of currency in first stage: dB/ETH & ETH/dB
+Depending on the level of development, user can get FROY in different ways on each cycle.
+Here, we are talking about the first phase, when the Decibling platform begin to run, we decided to use the network of ETH (Ethereum). So you can get FROY through DEXs (Decentralized exchanges) in the ETH network.
+Pair of currency in first stage: FROY/ETH & ETH/FROY
 
 Depending on each phase, users will have to pay gas fee in different ways.
 
