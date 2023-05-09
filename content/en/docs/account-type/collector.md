@@ -11,6 +11,6 @@ Collector Account: A Collector Account is defined as any account after winning  
 
 Collector Account will receive his/her/their NFT in his/her/their wallet.
 
-Collector Account can then begin holding any auction for his/her/their owned NFT.
+Collector Account then can begin holding any auction for his/her/their owned NFT.
 
 Collector can not bid on their owned auction.
