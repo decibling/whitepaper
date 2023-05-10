@@ -10,7 +10,7 @@ Every type of account will begin his/her/their first journey on Decibling with t
 
 ## JUNIOR
 This is the default title of the Artist Account after it is recognized.
-- Benefit: 	
+- Benefits: 	
     - Pool's capacity is limited to 15 songs only.
     - Receive his/her/their own Artist Pool with a maximum staking capacity equivalent to 1M FROY or USD 10K.
 
