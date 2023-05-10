@@ -66,3 +66,4 @@ Any Collector Account with a total transaction value of USD 500K and have a tota
     - A 4% plus on the total DCBA prize amount.
 	- A 50% discount voucher when limited edition NFTs are publish.
 
+ABC 
