@@ -56,6 +56,13 @@ To make a bid, just put your desired price on the song listing, then click Bid b
 
 > The Smart Contract will keep the highest bid value to make sure the bid session worked and the item can be distributed correctly after the bid is settled. All lower bids will be refunded to your wallet if there is any new highest value is added to the bid session.
 
+## Cancel a bid
+In the following scenarios, the item owner will be able to cancel a bid when the end time has reached:
+* Have a winner, but the item owner no longer wishes to sell it.
+* Ended bid had no bidders in that bid session.
+
+This will take some of your ETH for gas fee.
+
 ## Settle a bid
 When the ending time reached, the item owner will be able to finalize the bid, this action will:
 * Transfer the item ownership to the winner.
@@ -92,6 +99,3 @@ Item ownership transfered from A to C, and A receives:
 Item ownership transfered from C to C1, and C receives:
 
 **100 FROY - (10% income tax) = 100 - 10 = 90** (with ETH gas fee).
-
-## Notes
-* If the bid is made and the seller (artist/collector) did not take action to settle the bid within 72 hours, the marketplace will distribute automatically, but with the fee at 2.5% of the won price.
