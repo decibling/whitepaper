@@ -6,9 +6,9 @@ lastmod: 2023-01-04T09:32:26.996Z
 ---
 > Any seller as Artist Account has to pay DCBA fee 2.5% on total winning bid amount.
 
-> Any reseller doesn't have to pay DCBA fee 2.5% on total winning bid amount. They'll lose their right to stand a chance to share 50% DCBA prize with the Artist of this NFT.
+> Any reseller doesn't have to pay DCBA fee 2.5% on total winning bid amount. He/She/They'll lose his/her/their right to stand a chance to share 50% DCBA prize with the Artist of this NFT.
 
-> Any buyer(can be Listener, Collector, Artist account) doesn't have to pay DCBA fee 2.5% on total winning bid amount but the buyer will receive an offered of paying DCBA fee email, and if the buyer accepts to pay this fee, he/she/they would have a chance to share 50% DCBA prize with the Artist of this NFT.
+> Any buyer (can be Listener, Collector, Artist account) doesn't have to pay DCBA fee 2.5% on total winning bid amount but the buyer will receive an offered of paying DCBA fee email, and if the buyer accepts to pay this fee, he/she/they would have a chance to share 50% DCBA prize with the Artist of this NFT.
 
 ## Biddings
 **Default settings:**
