@@ -4,7 +4,7 @@ draft: false
 weight: 740
 lastmod: 2023-01-11T07:06:57.968Z
 ---
-Every type of account will begin his/her/their first journey on Decibling with the lowest rank.
+> Every type of account will begin his/her/their first journey on Decibling with the lowest rank.
 
 # Artist Account Ranks
 
