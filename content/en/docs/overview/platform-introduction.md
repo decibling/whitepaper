@@ -8,4 +8,4 @@ weight: 10
 
 We establish a music player platform in the form of staking into music Pools by using the POS mechanism (Proof of Stake), and as a result, it brings Return to both Listeners and Pool owners.
 
-In addition, we establish a trading market. In specific, an auction market for artist's artworks being trade with Decibling's NFT mechanism.
+In addition, we establish a trading market platform. In specific, an auction market for artist's artworks is traded with Decibling's NFT mechanism.
