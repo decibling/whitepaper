@@ -2,19 +2,25 @@
 title: FROY distribution
 draft: false
 weight: 510
-lastmod: 2023-01-17T08:47:16.735Z
+lastmod: 2023-05-13T20:18:06.899Z
 ---
 > FROY will be the token (currency) of all transactions in Decibling platform.
 
 Max supply: 			100,000,000,000 FROY
 
-In words:			One hundred billions FROY
+Decibling token: ERC-20 Froggily (FROY)
 
-Network:			Ethereum ERC-20 & other coming soon
+Blockchain network:	Layer 2 Arbitrum One/Nova
 
-First issued date:
+First issued date: TBD
 
-**Smart contracts:**
-* Token: 0x00...
-* Auction: 0x00...
-* Staking: 0x00...
+## Arbitrum One mainnet
+- Token
+- Auction
+- Staking
+
+## Sepolia testnet
+- FroggilyToken: 0x33634B1Cd1B1c5783cA6Eab3E464464644ad7F73
+- DeciblingNFT: 0xAa8ADb51329BA9640D86Aa10b0F374d97A7B31d9
+- DeciblingAuction: 0x6F53C1836e3988f5DC0645C2c58b399A7497486f
+- DeciblingStaking: 0xE2678C127C4b68DC46Bd52b7991613885c5b212A
