@@ -6,7 +6,7 @@ weight: 310
 lastmod: 2023-03-27T07:08:42.728Z
 ---
 
-All artist accounts have the ability to mint any of their owned music works (songs) to an NFT and open an auction on the Decibling Auction Marketplace.
+All artist accounts have the ability to mint any of their owned music work (song) to an NFT and open an auction on the Decibling Auction Marketplace.
 
 Any collector who wins the auction will be the current owner of that music work (song) and will receive this NFT from the seller.
 
@@ -14,9 +14,9 @@ Any collector who owns NFT has the right and permission to re-sell it to the nex
 
 ## Minting NFT & Auctioning 
 
-Any artist who wants to open an auction to sell their NFT, first, he/ she/ they must have an Artist Account.
+Any artist who wants to open an auction to sell their NFT, first, he/she/they must have an Artist Account.
 
-To mint the NFT, the artist must first uploads this music work (song) successfully on his/ her/ their Artist Pool.
+To mint the NFT, the artist must first upload this music work (song) successfully on his/her/their Artist Pool.
 
 All artists do not have the right to upload the same song more than once.
 
