@@ -58,11 +58,11 @@ lastmod: 2023-01-30T07:35:04.708Z
 
 ## 3. Ecosystem Research & Developing:
 
-**Max capacity:**			7.5% of FROY total supply
+**Max capacity:**			8.5% of FROY total supply
 
-**In numbers:**			7,500,000,000 FROY
+**In numbers:**			8,500,000,000 FROY
 
-**In words:**			Seven billions and five hundred millions FROY
+**In words:**			Eight billions and five hundred millions FROY
 
 **Mission:** 			
 * Transfer an emergency amount of FROY to balance when the Return Guarantee Fund drops down under 50%
@@ -169,6 +169,26 @@ lastmod: 2023-01-30T07:35:04.708Z
 **Recharge:**			No
 
 **Period of recharge:**		No
+
+**Standard of recharge:**		No
+
+**Recharge priority rank:**		No
+
+## 8. AIRDROP 
+
+**Max capacity:**           1% of FROY total supply
+
+**In numbers:**             1,000,000,000 FROY
+
+**In words:**           One billion FROY
+
+**Mission:**            To give away to earlier users of Decibling community
+
+**Regulation:**     This step is launched after the Testnet progress
+
+**Recharge:**   No
+
+**Period of recharge:**         No
 
 **Standard of recharge:**		No
 
