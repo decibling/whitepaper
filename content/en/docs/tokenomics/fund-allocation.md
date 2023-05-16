@@ -6,155 +6,170 @@ lastmod: 2023-01-30T07:35:04.708Z
 ---
 # Allocation
 ## 1. Return Guarantee Fund
-Max capacity:			30% of FROY total supply
 
-In numbers:			30,000,000,000
+**Max capacity:**			30% of FROY total supply
 
-In words:			Thirty billions FROY
+**In numbers:**			30,000,000,000 FROY
 
-Mission:			To guarantee the return for all staking users in the platform
+**In words:**			Thirty billions FROY
 
-Regulation:			To pay the return for stakers
+**Mission:**			To guarantee the return for all staking users in the platform
 
-Recharge: 		
+**Regulation:**			To pay the return for stakers
+
+**Recharge:** 		
 * By Dev Team
 * By Happy Autism
 * From Income Tax
 * By Community
 
-Period of recharge:		Once per 3 years
+**Period of recharge:**		Once per 3 years
 
-Standard of recharge:		> 80% of max capacity
+**Standard of recharge:**		> 80% of max capacity
 
-Recharge priority rank:		Number 1
+**Recharge priority rank:**		Number 1
+
 ## 2. Project Development Team
-Max capacity:			14.2% of FROY total supply
 
-In numbers:			14,200,000,000
+**Max capacity:**			15% of FROY total supply
 
-In words:			Fourteen billions and two hundred millions FROY
+**In numbers:**			15,000,000,000 FROY
 
-Min capacity*:			Can not be less than 5% of FROY total supply	
+**In words:**			Fifteen billions FROY
 
-Mission:			Project development team's commitment payment
+**Min capacity:**			Can not be lesser than 5% of FROY total supply in the first 5 years since the first successful fund raising date	
 
-Regulation:		
+**Mission:**			Project development team's commitment payment
+
+**Regulation:**		
 * Block for the first 6 months since the first successful fund raising date
-* Vesting per 3 month in 5 years
+* Vesting 10,000,000,000 FROY per 3 month in 5 years
+* Receive the rest 5,000,000,000 FROY after 5 years based on "since the first successful fund raising date"
 
-Recharge:			By Community
+**Recharge:**			By Community
 
-Period of recharge:		No
+**Period of recharge:**		No
 
-Standard of recharge:		No
+**Standard of recharge:**		No
 
-Recharge priority rank:		No
+**Recharge priority rank:**		No
 
-The release of Min capacity*:	After 10 years
+**The release of Min capacity:**	After 5 years based on "since the first successful fund raising date"
+
 ## 3. Ecosystem Research & Developing:
-Max capacity:			7.5% of FROY total supply
 
-In numbers:			7,500,000,000
+**Max capacity:**			7.5% of FROY total supply
 
-In words:			Seven billions and five hundred millions FROY
+**In numbers:**			7,500,000,000 FROY
 
-Mission: 			
-* Transfer an emergency amount of FROY to balance when the Return
-* Guarantee Fund drops down under 50%
+**In words:**			Seven billions and five hundred millions FROY
+
+**Mission:** 			
+* Transfer an emergency amount of FROY to balance when the Return Guarantee Fund drops down under 50%
 * Spending for new research & developing
 
-Regulation:			is made by community votes
+**Regulation:**			is made by community votes
 
-Recharge:			By Community	
+**Recharge:**			By Community	
 
-Period of recharge:		No
+**Period of recharge:**		No
 
-Standard of recharge:		No
+**Standard of recharge:**		No
 
-Recharge priority rank:		No
+**Recharge priority rank:**		No
+
 ## 4. Decibling Award (DCBA)
-Max capacity:			17% of FROY total supply
 
-In numbers:			17,000,000,000
+**Max capacity:**			17% of FROY total supply
 
-In words:			Seventeen billions FROY
+**In numbers:**			17,000,000,000 FROY
 
-Mission:			To cover all of the DCBA event fees and its prizes
+**In words:**			Seventeen billions FROY
 
-Regulation:			
+**Mission:**			To cover all of the DCBA event fees and its prizes
+
+**Regulation:**			
 * To pay the celebration expense
 * To pay for the winner of the prizes (Artist & Collector)
+* To pay for the physical DCBA event in the future
 
-Recharge:			
+**Recharge:**			
 * From DCBA Fee
 * By Happy Autism
 * By Community
 
-Period of recharge:		Once per 3 years
-Standard of recharge:		> 80% of max capacity
-Recharge priority rank:		Number 2
+**Period of recharge:**		Once per 3 years
+
+**Standard of recharge:**		> 80% of max capacity
+
+**Recharge priority rank:**		Number 2
+
 ## 5. Advisors
-Max capacity:			3% of FROY total supply
 
-In numbers:			3,000,000,000
+**Max capacity:**			3% of FROY total supply
 
-In words:			Three billions FROY
+**In numbers:**			3,000,000,000 FROY
 
-Mission: advisors' dedication payment for:
+**In words:**			Three billions FROY
+
+**Mission: Advisors' dedication payment for:**
 * Support to project development team
 * Support for branding
 * Support for business
 
-Regulation:
+**Regulation:**
 * Block for the first 6 months since the first advisor appears
 * Vesting per 3 months in 3 years if user growth reaches 10M in the first year	
 * Vesting per 3 months in 2 years if user growth reaches 20M in the first year
 * Vesting per 3 months in 1 year if user growth reaches 50M in the first year	
 
-Recharge:			No
+**Recharge:**			No
 
-Period of recharge:		No
+**Period of recharge:**		No
 
-Standard of recharge:		No
+**Standard of recharge:**		No
 
-Recharge priority rank:		No
+**Recharge priority rank:**		No
+
 ## 6. Private Sale
-Max capacity:			21.3% of FROY total supply
 
-In numbers:			21,300,000,000
+**Max capacity:**			18% of FROY total supply
 
-In words:			Twenty one billion and three hundred millions FROY
+**In numbers:**			18,000,000,000 FROY
 
-Mission:			is made available for fund raising and airdrops
+**In words:**			Eighteen billions FROY
 
-Regulation:			
-* 40% of total amount fundraising will be used for liquidation
-* 1.3% of this capacity could be sold and used for first angel investors or airdrops
-* First 10% of this capacity will be sold at the first fund raising term
-* Last 10% of this capacity will be sold after the first fund raising term 9 months later
+**Mission:**			is for any kind of fund raising
 
-Recharge: No
+**Regulation:**			
+* 50% of total amount fundraising will be used for liquidation
+* First 9% of this capacity will be sold at the first fund raising term
+* Last 9% of this capacity will be sold after the first fund raising term 9 months later
 
-Period of recharge: No
+**Recharge:** No
 
-Standard of recharge: No
+**Period of recharge:** No
 
-Recharge priority rank: No
-## 7. Binance Launch Pad
-Max capacity:			7% of FROY total supply
+**Standard of recharge:** No
 
-In numbers:			7,000,000,000
+**Recharge priority rank:** No
 
-In words: 			Seven billions FROY
+## 7. CEX Launch Pad
 
-Mission:			To list FROY on Binance Exchange
+**Max capacity:**			7.5% of FROY total supply
 
-Regulation:			After all the Private Sale capacity is sold
+**In numbers:**			7,500,000,000 FROY
 
-Recharge:			No
+**In words:** 			Seven billions and five hundreds FROY
 
-Period of recharge:		No
+**Mission:**			To list FROY on Centralized Exchange
 
-Standard of recharge:		No
+**Regulation:**		This step is launched	after all the Private Sale capacity is sold
 
-Recharge priority rank:		No
+**Recharge:**			No
+
+**Period of recharge:**		No
+
+**Standard of recharge:**		No
+
+**Recharge priority rank:**		No
