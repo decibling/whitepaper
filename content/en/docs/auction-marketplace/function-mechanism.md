@@ -41,9 +41,15 @@ From this point, your audio file is minted and broadcasted in the blockchain, yo
 
 ### Listing
 
-There are some values that you need to think about before making an auction listing:
-* When it's start and end?
-* Your starting price
+> Protecting Bidder Deposit: Or PBD, this is an amount which Decibling system requires from any single listing to protect all the bidder in case of the seller cancels the bid, will be returned after the auction is settled, and will be taken as a penalty if the auction is canceled. 
+
+> PBD is mostly used for paying back the Gas Fee for bidders.
+
+There are 3 (three) values that you have to make your owned decision before making an auction listing:
+
+* **Time:** When your auction is started and ended?
+* **Price:** Your starting price?
+* **PBD:** You must deposit at least a value of 10% amount of "Your starting price".
 
 When you are ready, click the LISTING button, there is a form that you need to fill in.
 Another Smart Contract form will ask you to confirm that you will sell your song to the marketplace. This will take some of your ETH for gas fee.
@@ -66,9 +72,12 @@ To make a bid, just put your desired price on the song listing, then click Bid b
 
 ### Cancel a bid
 
-In the following scenarios, the item owner will be able to cancel a bid when the end time has reached:
-* Have a winner, but the item owner no longer wishes to sell it.
-* Ended bid had no bidders in that bid session.
+In the following scenarios, the item owner (seller) will be able to cancel a bid when the end time has reached:
+
+* Have a winner, but the item owner no longer wishes to sell it **CASE1**
+* Ended bid had no bidders in that bid session **CASE2**
+
+> Seller will lose his/her/their PBD in **CASE1**, seller will get PBD back in **CASE2**
 
 This will take some of your ETH for gas fee.
 
