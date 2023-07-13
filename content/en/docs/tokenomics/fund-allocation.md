@@ -42,7 +42,7 @@ lastmod: 2023-01-30T07:35:04.708Z
 **Mission:**			Project development team's commitment payment
 
 **Regulation:**		
-* Block for the first 6 months since the first successful fund raising date
+* Locked for 1 month after CEX listing date, then:
 * Vesting 10,000,000,000 FROY per 3 month in 5 years
 * Receive the rest 5,000,000,000 FROY after 5 years based on "since the first successful fund raising date"
 
