@@ -144,8 +144,8 @@ lastmod: 2023-01-30T07:35:04.708Z
 **Regulation:**
 
 * 50% of total amount fundraising will be used for liquidation
-* 9,000,000,000 FROY will be sold in the first round. Unlock one month after CEX listing day, then vesting per month in 20 months
-* 9,000,000,000 FROY will be sold in the first round. Unlock one month after CEX listing day, then vesting per month in 15 months
+* The first 9,000,000,000 FROY will be sold in the first round. Unlock one month after CEX listing day, then vesting per month in 20 months
+* The last 9,000,000,000 FROY will be sold in the second round, right after the first round 3 months later. Unlock one month after CEX listing day, then vesting per month in 15 months
 
 **Recharge:** No
 
