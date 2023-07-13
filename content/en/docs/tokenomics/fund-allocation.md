@@ -141,8 +141,11 @@ lastmod: 2023-01-30T07:35:04.708Z
 
 **Mission:**			is for any kind of fund raising
 
-**Regulation:**			
+**Regulation:**
+
 * 50% of total amount fundraising will be used for liquidation
+* 9,000,000,000 FROY will be sold in the first round. Unlock one month after CEX listing day, then vesting per month in 20 months
+* 9,000,000,000 FROY will be sold in the first round. Unlock one month after CEX listing day, then vesting per month in 15 months
 
 **Recharge:** No
 
