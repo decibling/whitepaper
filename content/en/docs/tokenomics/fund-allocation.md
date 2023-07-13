@@ -118,7 +118,7 @@ lastmod: 2023-01-30T07:35:04.708Z
 * Support for business
 
 **Regulation:**
-* Block for the first 6 months since the first advisor appears
+* Block for the first year since the first advisor appears then:
 * Vesting per 3 months in 3 years if user growth reaches 10M in the first year	
 * Vesting per 3 months in 2 years if user growth reaches 20M in the first year
 * Vesting per 3 months in 1 year if user growth reaches 50M in the first year	
@@ -154,7 +154,7 @@ lastmod: 2023-01-30T07:35:04.708Z
 
 **Recharge priority rank:** No
 
-## 7. CEX Launch Pad
+## 7. CEX Listing
 
 **Max capacity:**			7.5% of FROY total supply
 
