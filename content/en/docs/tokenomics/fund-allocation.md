@@ -143,8 +143,6 @@ lastmod: 2023-01-30T07:35:04.708Z
 
 **Regulation:**			
 * 50% of total amount fundraising will be used for liquidation
-* First 9% of this capacity will be sold at the first fund raising term
-* Last 9% of this capacity will be sold after the first fund raising term 9 months later
 
 **Recharge:** No
 
