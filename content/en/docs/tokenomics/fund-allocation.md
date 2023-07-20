@@ -15,7 +15,9 @@ lastmod: 2023-01-30T07:35:04.708Z
 
 **Mission:**			To guarantee the return for all staking users in the platform
 
-**Regulation:**			To pay the return for stakers
+**Regulation:**			
+* To pay the return for stakers
+* Locked for the first 30 days since CEX listing date
 
 **Recharge:** 		
 * By Dev Team
@@ -42,7 +44,7 @@ lastmod: 2023-01-30T07:35:04.708Z
 **Mission:**			Project development team's commitment payment
 
 **Regulation:**		
-* Locked for 1 month after CEX listing date, then:
+* Locked for the first 30 days since CEX listing date, then:
 * Vesting 10,000,000,000 FROY per 3 month in 5 years
 * Receive the rest 5,000,000,000 FROY after 5 years based on "since the first successful fund raising date"
 
@@ -64,11 +66,14 @@ lastmod: 2023-01-30T07:35:04.708Z
 
 **In words:**			Eight billions and five hundred millions FROY
 
-**Mission:** 			
+**Mission:** 
+		
 * Transfer an emergency amount of FROY to balance when the Return Guarantee Fund drops down under 50%
 * Spending for new research & developing
 
-**Regulation:**			is made by community votes
+**Regulation:**			
+* Locked for the first 12 months since CEX listing date	
+* is made by community votes
 
 **Recharge:**			By Community	
 
@@ -88,7 +93,8 @@ lastmod: 2023-01-30T07:35:04.708Z
 
 **Mission:**			To cover all of the DCBA event fees and its prizes
 
-**Regulation:**			
+**Regulation:**
+* Locked until the first Decibling Awards will be held in Nov - Dec 2024			
 * To pay the celebration expense
 * To pay for the winner of the prizes (Artist & Collector)
 * To pay for the physical DCBA event in the future
@@ -118,7 +124,7 @@ lastmod: 2023-01-30T07:35:04.708Z
 * Support for business
 
 **Regulation:**
-* Block for the first year since the first advisor appears then:
+* Locked for the first 12 months since CEX listing date, then:
 * Vesting per 3 months in 3 years if user growth reaches 10M in the first year	
 * Vesting per 3 months in 2 years if user growth reaches 20M in the first year
 * Vesting per 3 months in 1 year if user growth reaches 50M in the first year	
@@ -185,7 +191,10 @@ lastmod: 2023-01-30T07:35:04.708Z
 
 **Mission:**            To give away to earlier users of Decibling community
 
-**Regulation:**     This step is launched after the Testnet progress
+**Regulation:**     
+
+* Unlocked at the CEX listing date
+* Estimate of unlocked quantity: 30% - 100%
 
 **Recharge:**   No
 
